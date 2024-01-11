@@ -17,13 +17,13 @@ m)	Which director is the most bankable?
 ## Dataset:-
 It contains two tables named "movies" and "directors" in the database named "project_movie_database". These tables are linked by the primary key called director_id.
 
-#### Table "directors"
+#### directors Table
 name: Name of the Director,
 iD: Unique ID of the Directors,
 gender: Gender of the Director,
 department: Department of the Directors.
 
-#### Table "movies"
+#### movies Table
 iD: Unique Id for Movies,
 original_title: Movie name,
 budget: Budget of the movie,
