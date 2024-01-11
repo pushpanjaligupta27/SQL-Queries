@@ -1,4 +1,4 @@
-## Have to perform the following Problem Queries on given dataset :-
+## Perform the following Problem Queries on given dataset :-
 
 a)	Can you get all data about movies?
 b)	How do you get all data about directors?
