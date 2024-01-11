@@ -17,9 +17,28 @@ m)	Which director is the most bankable?
 # Dataset:-
 It contains two tables named "movies" and "directors" in the database named "project_movie_database". These tables are linked by the primary key called director_id.
 
-### Table "directors"
-name: Name of the Director
-iD: Unique ID of the Directors
-gender: Gender of the Director
+#### Table "directors"
+name: Name of the Director,
+iD: Unique ID of the Directors,
+gender: Gender of the Director,
 department: Department of the Directors.
+
+#### Table "movies"
+iD: Unique Id for Movies,
+original_title: Movie name,
+budget: Budget of the movie,
+popularity: Popularity of the Movie,
+release_date: Release date for the movies,
+revenue: Revenue collected movie,
+title: Initial title of the movie,
+vote_average: Average IMDB rating,
+vote_count: Number of Vote the movie got,
+overview: Description of the movie,
+tagline: Tagline of the movie,
+uID: Unique ID for movie, 
+director_iD: Director ID.
+
+
+
+
 
