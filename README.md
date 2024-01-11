@@ -1,4 +1,5 @@
 Have to perform the following Problem Queries on given data :-
+
 a)	Can you get all data about movies?
 b)	How do you get all data about directors?
 c)	Check how many movies are present in IMDB.
