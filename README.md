@@ -1,4 +1,4 @@
-Have to perform the Problem Queries on given data :-
+Have to perform the following Problem Queries on given data :-
 a)	Can you get all data about movies?
 b)	How do you get all data about directors?
 c)	Check how many movies are present in IMDB.
@@ -14,4 +14,4 @@ l)	Which director made the most movies?
 m)	Which director is the most bankable?
 
 About the Dataset:-
-It contains Two tables named "movies" and "directors" in the database named "project_movie_database".
+It contains two tables named "movies" and "directors" in the database named "project_movie_database". These tables are linked by the primary key called director_id.
