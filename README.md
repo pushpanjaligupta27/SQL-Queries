@@ -1,4 +1,4 @@
-# Have to perform the following Problem Queries on given dataset :-
+## Have to perform the following Problem Queries on given dataset :-
 
 a)	Can you get all data about movies?
 b)	How do you get all data about directors?
@@ -14,7 +14,7 @@ k)	Which movie(s) were directed by Brenda Chapman?
 l)	Which director made the most movies?
 m)	Which director is the most bankable?
 
-# Dataset:-
+## Dataset:-
 It contains two tables named "movies" and "directors" in the database named "project_movie_database". These tables are linked by the primary key called director_id.
 
 #### Table "directors"
